@@ -2,7 +2,7 @@
 The repository for the AutumnNight Game made by Ruby Winter
 
 ## About AutumnNight
-AutumnNight is a 2.5D Rogue-Like Platformer started in Unreal Engine 5 and is being remade in Unity.
+AutumnNight is a 2D Rogue-Like Platformer started in Unreal Engine 5 and is being remade in Unity.
 
 The goal of Autumn is to complete as many levels as possible with the generation being randomized. It also has a focus on accessibility, supporting many different control layouts.
 
