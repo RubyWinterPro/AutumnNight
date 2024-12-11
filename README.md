@@ -16,6 +16,3 @@ If you have any suggestions, like which engine you think this project should be 
 
 ### Bugs
 If you encounter any bugs, you can fill out an Issue report on the GitHub issues page.
-
-# Licensing
-AutumnNight is registered under the [GNU GPL v3 Open-Source License](LICENSE).
